@@ -2,9 +2,11 @@
 
 <div>
   <strong>root.folder</strong>
-  <p>package.json</p>
+<ul>
+<li>package.json</li>
   <p>webpack.config.js</p>
   <p>.babalrc</p>
+</ul>
 </div>
 
 <div>
