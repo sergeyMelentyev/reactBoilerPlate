@@ -1,6 +1,6 @@
 <h1>React Boilerplate</h1>
 <div>
-  <p style="font-weight: bold">root/src</p>
+  <strong>root/src</strong>
   <p>Should contain all pretranspiled code</p>
 </div>
 
