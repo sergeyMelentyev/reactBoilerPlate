@@ -1,6 +1,6 @@
 import React from "react"
 import text from "./data.json"
-import "./stylesheets/external_style.css"
+import "./stylesheets/react_styles.css"
 
 export const name = (
 	<h2 id="title"
