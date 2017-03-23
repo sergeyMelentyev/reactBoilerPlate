@@ -1,4 +1,6 @@
-const { render } = ReactDOM;
+import React from "react"
+import { render } from "react-dom"
+import { name, index } from "./lib"
 
 render(
 	<h1
@@ -7,5 +9,13 @@ render(
 		style={{backgroundColor: "orange", color: "grey"}}>
 		Hello, World!
 	</h1>,
-	document.getElementById("react-container")
+	document.getElementById("react-header")
+)
+
+render(
+	<div>
+		{name}
+		{index}
+	</div>,
+	document.getElementById("react-body")
 )
