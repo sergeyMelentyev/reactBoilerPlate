@@ -11,7 +11,6 @@
 
 <div>
   <strong>root/src.folder</strong>
-  <p>Should contain all pre-transpiled code</p>
   <ul>
   <li>index.js</li>
   <li>lib.js</li>
@@ -19,7 +18,9 @@
 </ul>
 </div>
 
-
-<div></div>
-<p></p>
-<strong></strong>
+<div>
+  <strong>root/dist.folder</strong>
+  <ul>
+  <li>index.html</li>
+</ul>
+</div>
