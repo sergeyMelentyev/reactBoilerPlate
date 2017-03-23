@@ -12,6 +12,11 @@
 <div>
   <strong>root/src.folder</strong>
   <p>Should contain all pre-transpiled code</p>
+  <ul>
+  <li>index.js</li>
+  <li>lib.js</li>
+  <li>data.json</li>
+</ul>
 </div>
 
 
