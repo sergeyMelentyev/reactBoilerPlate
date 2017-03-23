@@ -3,9 +3,9 @@
 <div>
   <strong>root.folder</strong>
 <ul>
-<li>package.json</li>
-  <p>webpack.config.js</p>
-  <p>.babalrc</p>
+  <li>package.json</li>
+  <li>webpack.config.js</li>
+  <li>.babalrc</li>
 </ul>
 </div>
 
